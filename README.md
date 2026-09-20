@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Java & Python Developer | DSA Learner
 
-I'm a third-year Computer Science Engineering student passionate about programming and software development.
+I'm a third-year student of Computer Science Engineering student passionate about programming and software development.
 
 ### 🚀 Skills
 - Java
